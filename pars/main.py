@@ -4,6 +4,12 @@ from time import time
 
 tic = time()
 
+url_list = open('url_list.txt', 'r')
+list_prov = [i.strip() for i in url_list.readlines()]
+
+lisk = open('list_isk.txt', 'r')
+list_isk = [i.strip() for i in url_list.readlines()]
+
 def response(url):
     return requests.get(url)
 
@@ -14,31 +20,35 @@ def find_url(url):
     for item in items:
         href = str(item.get('href'))
         if href[0] == '/':
-            href_list.append('https://seacomm.ru' + href)
+            url_a = 'https://seacomm.ru' + href
+            if url_a not in list_isk:
+                href_list.append(url_a)
         elif href[0:4] == 'http':
-            href_list.append(href)
+            if href not in list_isk:
+                href_list.append(href)
     return href_list
 
 def response_code(url):
     return requests.get(url, allow_redirects=False).status_code
 
 def proverka(list_url):
+    rez_list = []
     for url in list_url:
-        print(url)
+        rez_list.append(url)
+        rez_list.append('')
         for i in find_url(url):
             if response_code(i) != 200:
-                print(i, end=' - ')
-                print(response_code(i))
-        print('/************************************************/')
-    print('Ok')
-
-list_prov = [
-'https://seacomm.ru/catalog/29/',
-'https://seacomm.ru/catalog/50/1009/',
-'https://seacomm.ru/dokumentacija/12462/'
-]
+                rez_list.append(i + ' - ' + str(response_code(i)))
+        rez_list.append('')
+        rez_list.append('<----------------------------------------->')
+        rez_list.append('')
+    r = open("rez.txt", "w")
+    for i in rez_list:
+        r.write(str(i) + '\n')
+    r.close()
 
 proverka(list_prov)
 
+print('Ok')
 toc = time()
 print(str(round((toc - tic), 1)) + ' sec')
