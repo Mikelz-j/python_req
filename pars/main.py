@@ -8,7 +8,7 @@ url_list = open('url_list.txt', 'r')
 list_prov = [i.strip() for i in url_list.readlines()]
 
 lisk = open('list_isk.txt', 'r')
-list_isk = [i.strip() for i in url_list.readlines()]
+list_isk = [i.strip() for i in lisk.readlines()]
 
 def response(url):
     return requests.get(url)
@@ -34,11 +34,14 @@ def response_code(url):
 def proverka(list_url):
     rez_list = []
     for url in list_url:
-        rez_list.append(url)
-        rez_list.append('')
-        for i in find_url(url):
-            if response_code(i) != 200:
-                rez_list.append(i + ' - ' + str(response_code(i)))
+        if response_code(url) != 200:
+            rez_list.append(url + ' - ' + str(response_code(url)))
+        else:
+            rez_list.append(url)
+            rez_list.append('')
+            for i in find_url(url):
+                if response_code(i) != 200:
+                    rez_list.append(i + ' - ' + str(response_code(i)))
         rez_list.append('')
         rez_list.append('<----------------------------------------->')
         rez_list.append('')
