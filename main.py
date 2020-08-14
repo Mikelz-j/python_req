@@ -13,13 +13,21 @@ list_isk = [i.strip() for i in lisk.readlines()]
 def response(url):
     return requests.get(url)
 
+def response_code(url):
+    return requests.get(url, allow_redirects=False).status_code
+
+
 def find_url(url):
     href_list = []
     soup = BeautifulSoup(response(url).content, 'html.parser')
     items = soup.findAll('a')
     for item in items:
         href = str(item.get('href'))
-        if href[0] == '/':
+        if href[0:2] == '//':
+            url_a = 'https:' + href
+            if url_a not in list_isk:
+                href_list.append(url_a)
+        elif href[0] == '/':
             url_a = 'https://seacomm.ru' + href
             if url_a not in list_isk:
                 href_list.append(url_a)
@@ -27,9 +35,6 @@ def find_url(url):
             if href not in list_isk:
                 href_list.append(href)
     return href_list
-
-def response_code(url):
-    return requests.get(url, allow_redirects=False).status_code
 
 def proverka(list_url):
     rez_list = []
