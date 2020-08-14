@@ -37,6 +37,7 @@ def proverka(list_url):
         if response_code(url) != 200:
             rez_list.append(url + ' - ' + str(response_code(url)))
         else:
+            print(url)
             rez_list.append(url)
             rez_list.append('')
             for i in find_url(url):

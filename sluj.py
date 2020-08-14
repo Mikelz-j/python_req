@@ -1,4 +1,4 @@
-lisk = open('list_isk.txt', 'r')
+lisk = open('url_list.txt', 'r')
 l = [i.strip() for i in lisk.readlines()]
 
 n = []
