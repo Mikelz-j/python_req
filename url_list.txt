@@ -102,7 +102,7 @@ https://seacomm.ru/news/10857/
 https://seacomm.ru/news/9734/
 https://seacomm.ru/news/9270/
 https://seacomm.ru/dokumentacija/5945/
-https://seacomm.ru/dokumentacija/8371/
+#https://seacomm.ru/dokumentacija/8371/
 https://seacomm.ru/news/11962/
 https://seacomm.ru/catalog/65/
 https://seacomm.ru/dokumentacija/9485/
