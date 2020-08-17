@@ -16,6 +16,8 @@ https://seacomm.ru/catalog/681/p27/
 https://seacomm.ru/catalog/78/11233/
 
 https://seacomm.ru/catalog// - 301
+http://seacomm.ru/catalog/brands/41/ - 301
+http://seacomm.ru/catalog/78/9984/ - 301
 https://seacomm.ru/catalog//9984/ - 301
 
 <----------------------------------------->
@@ -34,6 +36,12 @@ https://seacomm.ru/catalog//11233/ - 301
 
 https://seacomm.ru/catalog/78/
 
+http://seacomm.ru/catalog/78/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=20790&FILTER_L%5BPRICE%5D%5BMAX%5D=272890&show_without_price=1&FILTER_L%5B1%5D=171&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B4112%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0 - 301
+http://seacomm.ru/catalog/78/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=20790&FILTER_L%5BPRICE%5D%5BMAX%5D=272890&show_without_price=1&FILTER_L%5B1%5D=153&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_C%5B4277%5D=0 - 301
+http://seacomm.ru/catalog/78/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=20790&FILTER_L%5BPRICE%5D%5BMAX%5D=272890&show_without_price=1&FILTER_L%5B1%5D=152&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0 - 301
+http://seacomm.ru/dokumentacija/Chto-takoe-kartplotter/ - 301
+http://seacomm.ru/dokumentacija/5436/ - 301
+http://seacomm.ru/news/5088/ - 301
 
 <----------------------------------------->
 
@@ -135,6 +143,11 @@ https://seacomm.ru/catalog/p7/?10%D0%BA%D0%92%D1%82%2F6_=&q=%D0%A0%D0%9B%D0%A1&x
 
 https://seacomm.ru/catalog/67/9957/
 
+http://seacomm.ru/catalog/67/9710/ - 301
+http://seacomm.ru/catalog/67/9955/ - 301
+http://seacomm.ru/catalog/96/ - 301
+http://seacomm.ru/catalog/95/ - 301
+http://seacomm.ru/catalog/67/9955/ - 301
 
 <----------------------------------------->
 
@@ -194,6 +207,25 @@ https://seacomm.ru/news/14958/
 
 https://seacomm.ru/dokumentacija/chto-takoe-kartplotter/
 
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/42/ - 301
+http://seacomm.ru/catalog/42/ - 301
+http://seacomm.ru/catalog/95/ - 301
+http://seacomm.ru/catalog/brands/24/ - 301
+http://seacomm.ru/catalog/brands/2/ - 301
+http://seacomm.ru/catalog/brands/26/ - 301
+http://seacomm.ru/catalog/96/ - 301
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/catalog/brands/23/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/78/ - 301
+http://seacomm.ru/catalog/27/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=18060&FILTER_L%5BPRICE%5D%5BMAX%5D=898225&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B397%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4112%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=1&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/39/ - 301
+http://seacomm.ru/catalog/101/646/ - 301
+http://seacomm.ru/dokumentacija/5436/ - 301
 
 <----------------------------------------->
 
@@ -230,22 +262,34 @@ https://seacomm.ru/catalog/cart-action.php?id=3131&action=add - 302
 
 https://seacomm.ru/news/106/
 
+http://seacomm.ru/catalog/33/15558/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/9885/
 
+http://seacomm.ru/catalog/593/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/catalog/66/9884/ - 301
+http://seacomm.ru/catalog/66/9884/ - 301
+http://seacomm.ru/catalog/66/9884/ - 301
+http://seacomm.ru/catalog/66/9884/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/catalog/66/9884/ - 301
+http://seacomm.ru/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/5942/
 
+http://seacomm.ru/news/5343/ - 301
+http://seacomm.ru/catalog/?q=Navcom+Voyager&x=0&y=0 - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/48/
 
-https://seacomm.ru/catalog/70/1007/ - 301
+http://seacomm.ru/catalog/70/1007/ - 301
 
 <----------------------------------------->
 
@@ -262,12 +306,15 @@ https://seacomm.ru/news/109/
 https://seacomm.ru/catalog/96/9626/
 
 https://seacomm.ru/catalog/cart-action.php?id=9626&action=add - 302
-https://seacomm.ru/links#map - 301
+http://seacomm.ru/links#map - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/catalog/144/
 
+http://seacomm.ru/catalog/392/ - 301
+http://seacomm.ru/catalog/78/ - 301
+http://seacomm.ru/catalog/391/ - 301
 
 <----------------------------------------->
 
@@ -278,23 +325,62 @@ https://seacomm.ru/catalog/67/9362/
 
 https://seacomm.ru/news/10858/
 
-https://seacomm.ru/catalog/74/257/ - 404
-https://seacomm.ru/catalog/57/120/ - 404
+http://seacomm.ru/news/10582/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+http://seacomm.ru/catalog/57/998/ - 301
+http://seacomm.ru/catalog/74/257/ - 301
+http://seacomm.ru/catalog/57/120/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+http://seacomm.ru/catalog/74/992/ - 301
+http://seacomm.ru/news/10857/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/6723/
 
+http://seacomm.ru/catalog/43/6737/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/43/6722/ - 301
+http://seacomm.ru/catalog/43/4966/ - 301
+http://seacomm.ru/catalog/43/4968/ - 301
+http://seacomm.ru/catalog/43/4969/ - 301
+http://seacomm.ru/catalog/43/4970/ - 301
+http://seacomm.ru/catalog/43/4979/ - 301
+http://seacomm.ru/catalog/43/4967/ - 301
+http://seacomm.ru/catalog/392/789/ - 301
+http://seacomm.ru/catalog/391/6730/ - 301
+http://seacomm.ru/catalog/391/6735/ - 301
+http://seacomm.ru/catalog/391/6730/ - 301
+http://seacomm.ru/catalog/43/ - 301
+http://seacomm.ru/catalog/350/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/10182/
 
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/360/ - 301
+http://seacomm.ru/catalog/43/ - 301
+http://seacomm.ru/catalog/389/ - 301
+http://seacomm.ru/catalog/69/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/70/665/ - 301
+http://seacomm.ru/catalog/22/ - 301
+http://seacomm.ru/catalog/47/ - 301
+http://seacomm.ru/catalog/22/ - 301
+http://seacomm.ru/catalog/47/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/4328/
 
+http://seacomm.ru/catalog/79/1068/ - 301
+http://seacomm.ru/catalog/78/4323/ - 301
+http://seacomm.ru/catalog/78/4324/ - 301
+http://seacomm.ru/catalog/78/4326/ - 301
+http://seacomm.ru/catalog/78/4327/ - 301
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/dokumentacija/5436/ - 301
 
 <----------------------------------------->
 
@@ -306,7 +392,125 @@ https://seacomm.ru/news/49/
 https://seacomm.ru/about/reference/
 
 https://seacomm.ru/catalog/53/7131/ - 301
+http://seacomm.ru/catalog/22/ - 301
 https://seacomm.ru/catalog/49/65/ - 301
+http://seacomm.ru/catalog/22/ - 301
+http://seacomm.ru/catalog/31/ - 301
+http://seacomm.ru/catalog/108/ - 301
+http://seacomm.ru/catalog/22/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/catalog/403/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/47/ - 301
+http://seacomm.ru/catalog/40/ - 301
+http://seacomm.ru/catalog/31/ - 301
+http://seacomm.ru/catalog/601/3680/ - 301
+http://seacomm.ru/catalog/145/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/catalog/108/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/news/11853/ - 301
+http://seacomm.ru/news/11859/ - 301
+http://seacomm.ru/catalog/45/ - 301
+http://seacomm.ru/catalog/529/9503/ - 301
+http://seacomm.ru/catalog/529/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/catalog/31/ - 301
+http://seacomm.ru/catalog/47/ - 301
+http://seacomm.ru/news/11379/ - 301
+http://seacomm.ru/news/11377/ - 301
+http://seacomm.ru/news/11378/ - 301
+http://seacomm.ru/news/11380/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/news/10930/ - 301
+http://seacomm.ru/solutions/10851/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/news/10587/ - 301
+http://seacomm.ru/solutions/10268/ - 301
+http://seacomm.ru/catalog/350/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/69/ - 301
+http://seacomm.ru/catalog/588/4979/ - 301
+http://seacomm.ru/catalog/46/ - 301
+http://seacomm.ru/catalog/57/ - 301
+http://seacomm.ru/catalog/603/ - 301
+http://seacomm.ru/solutions/10749/ - 301
+http://seacomm.ru/catalog/29/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/47/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://satprocom.ru/catalog/493/6492/ - 301
+http://seacomm.ru/solutions/10297/ - 301
+http://seacomm.ru/catalog/110/8592/ - 301
+http://seacomm.ru/solutions/10131/ - 301
+http://seacomm.ru/catalog/529/ - 301
+http://seacomm.ru/catalog/529/ - 301
+http://seacomm.ru/catalog/529/ - 301
+http://seacomm.ru/solutions/10055/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/601/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/600/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/21/ - 301
 
 <----------------------------------------->
 
@@ -318,6 +522,24 @@ https://seacomm.ru/catalog/cart-action.php?id=2333&action=add - 302
 
 https://seacomm.ru/dokumentacija/9035/
 
+http://seacomm.ru/catalog/566/ - 301
+http://seacomm.ru/catalog/565/ - 301
+http://seacomm.ru/catalog/44/ - 301
+http://seacomm.ru/catalog/34/ - 301
+http://seacomm.ru/catalog/32/ - 301
+http://seacomm.ru/catalog/350/ - 301
+http://seacomm.ru/catalog/43/ - 301
+http://seacomm.ru/catalog/395/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=220297&FILTER_L%5BPRICE%5D%5BMAX%5D=335897&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=5826&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B397%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4278%5D=0 - 301
+http://seacomm.ru/catalog/395/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=220297&FILTER_L%5BPRICE%5D%5BMAX%5D=335897&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=5826&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B397%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4278%5D=0 - 301
+http://seacomm.ru/catalog/69/ - 301
+http://seacomm.ru/catalog/389/ - 301
+http://seacomm.ru/catalog/77/ - 301
+http://seacomm.ru/catalog/124/ - 301
+http://seacomm.ru/catalog/42/ - 301
+http://seacomm.ru/catalog/65/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/47/ - 301
+http://seacomm.ru/catalog/45/ - 301
 
 <----------------------------------------->
 
@@ -328,35 +550,102 @@ https://seacomm.ru/news/5831/
 
 https://seacomm.ru/news/5322/
 
-https://seacomm.ru/catalog/brands/30/ - 301
-https://seacomm.ru/catalog/brands/30/ - 301
-https://seacomm.ru/catalog/brands/30/ - 301
+http://seacomm.ru/catalog/brands/15545/ - 301
+http://seacomm.ru/catalog/brands/30/ - 301
+http://seacomm.ru/catalog/brands/30/ - 301
+http://seacomm.ru/catalog/brands/30/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/10469/
 
+http://seacomm.ru/catalog/29/ - 301
+http://seacomm.ru/catalog/593/ - 301
+http://seacomm.ru/catalog/67/ - 301
+http://seacomm.ru/catalog/491/ - 301
+http://seacomm.ru/catalog/33/?action=filter&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=4985&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/143/ - 301
+http://seacomm.ru/catalog/593/ - 301
+http://seacomm.ru/catalog/67/ - 301
+http://seacomm.ru/catalog/491/ - 301
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/brands/22/ - 301
+http://seacomm.ru/catalog/67/8919/ - 301
+http://seacomm.ru/catalog/67/8920/ - 301
+http://seacomm.ru/catalog/brands/22/ - 301
+http://seacomm.ru/catalog/67/8921/ - 301
+http://seacomm.ru/catalog/67/8922/ - 301
+http://seacomm.ru/catalog/67/8922/ - 301
+http://seacomm.ru/catalog/67/8920/ - 301
+http://seacomm.ru/catalog/67/8922/ - 301
+http://seacomm.ru/catalog/?q=garmin+echo&x=0&y=0 - 301
+http://seacomm.ru/dokumentacija/5169/ - 301
+http://seacomm.ru/dokumentacija/osnovw-rabotw-vperedsmotryachego-eholota/ - 301
+http://seacomm.ru/dokumentacija/10278/ - 301
+http://seacomm.ru/dokumentacija/9125/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/9972/
 
+http://seacomm.ru/catalog/529/1060/ - 301
+http://seacomm.ru/catalog/529/9503/ - 301
+http://seacomm.ru/catalog/529/1061/ - 301
+http://seacomm.ru/catalog/529/1002/ - 301
+http://seacomm.ru/catalog/529/1001/ - 301
+http://seacomm.ru/catalog/70/499/ - 301
+http://seacomm.ru/catalog/70/15546/ - 301
+http://seacomm.ru/catalog/70/3660/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/solutions/9128/
 
+http://seacomm.ru/catalog/33/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/74/ - 301
+http://seacomm.ru/catalog/32/ - 301
+http://seacomm.ru/catalog/126/ - 301
+http://seacomm.ru/catalog/124/ - 301
+http://seacomm.ru/catalog/77/ - 301
+http://seacomm.ru/catalog/108/ - 301
+http://seacomm.ru/catalog/41/ - 301
+http://seacomm.ru/catalog/40/ - 301
+http://seacomm.ru/catalog/300/ - 301
+http://seacomm.ru/catalog/403/ - 301
+http://seacomm.ru/catalog/362/4458/ - 301
+http://seacomm.ru/catalog/108/ - 301
+http://seacomm.ru/catalog/126/409/ - 301
+http://seacomm.ru/catalog/143/ - 301
+http://seacomm.ru/catalog/33/999/ - 301
+http://seacomm.ru/catalog/27/963/ - 301
+http://seacomm.ru/catalog/491/851/ - 301
+http://seacomm.ru/catalog/70/15544/ - 301
+http://seacomm.ru/catalog/69/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/catalog/96/9640/
 
 https://seacomm.ru/catalog/cart-action.php?id=9640&action=add - 302
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/26/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=2800&FILTER_L%5BPRICE%5D%5BMAX%5D=1184960&show_without_price=1&FILTER_L%5B1%5D=149&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B397%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4112%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/26/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=2800&FILTER_L%5BPRICE%5D%5BMAX%5D=1184960&show_without_price=1&FILTER_L%5B1%5D=171&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B397%5D=&FILTER_C%5B4112%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0 - 301
+http://seacomm.ru/catalog/26/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=2800&FILTER_L%5BPRICE%5D%5BMAX%5D=1184960&show_without_price=1&FILTER_L%5B1%5D=171&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B397%5D=&FILTER_C%5B4112%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0 - 301
+http://seacomm.ru/catalog/26/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=2800&FILTER_L%5BPRICE%5D%5BMAX%5D=1184960&show_without_price=1&FILTER_L%5B1%5D=148&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B397%5D=&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0 - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/10313/
 
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/70/ - 301
 
 <----------------------------------------->
 
@@ -367,16 +656,56 @@ https://seacomm.ru/catalog/651/12146/
 
 https://seacomm.ru/dokumentacija/10936/
 
+http://seacomm.ru/catalog/33/?action=filter&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=4985&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/33/?action=filter&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=4985&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/42/ - 301
+http://seacomm.ru/catalog/392/ - 301
+http://seacomm.ru/catalog/33/?action=filter&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=4984&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/33/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/solutions/9936/
 
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/catalog/74/992/ - 301
+http://seacomm.ru/catalog/50/1162/ - 301
+http://seacomm.ru/catalog/55/6391/ - 301
+http://seacomm.ru/catalog/40/264/ - 301
+http://seacomm.ru/catalog/41/258/ - 301
+http://seacomm.ru/catalog/77/150/ - 301
+http://seacomm.ru/catalog/73/1217/ - 301
+http://seacomm.ru/catalog/99/1031/ - 301
+http://seacomm.ru/catalog/70/15544/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/Trebovanija-Mintransa-ais-glonass/
 
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/99/ - 301
+http://seacomm.ru/catalog/99/ - 301
+http://seacomm.ru/catalog/99/490/ - 301
+http://seacomm.ru/catalog/99/487/ - 301
+http://seacomm.ru/catalog/99/1031/ - 301
+http://seacomm.ru/catalog/99/593/ - 301
+http://seacomm.ru/catalog/99/1010/ - 301
+http://seacomm.ru/catalog/99/489/ - 301
+http://seacomm.ru/catalog/99/1031/ - 301
+http://seacomm.ru/catalog/99/1010/ - 301
+http://seacomm.ru/catalog/99/593/ - 301
+http://seacomm.ru/catalog/70/501/ - 301
+http://seacomm.ru/catalog/70/766/ - 301
+http://seacomm.ru/catalog/70/499/ - 301
+http://seacomm.ru/catalog/70/ - 301
 
 <----------------------------------------->
 
@@ -387,20 +716,55 @@ https://seacomm.ru/news/5304/
 
 https://seacomm.ru/dokumentacija/ais-transas/
 
+http://seacomm.ru/catalog/33/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/12202/
 
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/brands/23/ - 301
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+http://seacomm.ru/catalog/brands/22/ - 301
+http://seacomm.ru/catalog/390/ - 301
+http://seacomm.ru/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/catalog/46/
 
-https://seacomm.ru/catalog/52/90/ - 301
-https://seacomm.ru/catalog/52/90/ - 301
+http://seacomm.ru/catalog/46/ - 301
+http://seacomm.ru/catalog/46/ - 301
+http://seacomm.ru/catalog/46/ - 301
+http://seacomm.ru/catalog/46/ - 301
+http://seacomm.ru/catalog/46/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=465&FILTER_L%5BPRICE%5D%5BMAX%5D=77665&show_without_price=1&FILTER_L%5B1%5D=144&FILTER_L%5B347%5D=&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/46/?action=filter&FILTER_L%5B1%5D=145&FILTER_L%5B347%5D= - 301
+http://seacomm.ru/catalog/46/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=465&FILTER_L%5BPRICE%5D%5BMAX%5D=23065&show_without_price=1&FILTER_L%5B1%5D=168&FILTER_L%5B347%5D=&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/46/?action=filter&FILTER_L%5B1%5D=140&FILTER_L%5B347%5D= - 301
+http://seacomm.ru/catalog/46/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=465&FILTER_L%5BPRICE%5D%5BMAX%5D=25965&show_without_price=1&FILTER_L%5B1%5D=138&FILTER_L%5B347%5D= - 301
+http://seacomm.ru/catalog/46/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=465&FILTER_L%5BPRICE%5D%5BMAX%5D=77665&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=5365&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/46/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=465&FILTER_L%5BPRICE%5D%5BMAX%5D=77665&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=5367&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/52/90/ - 301
+http://seacomm.ru/catalog/46/ - 301
+http://seacomm.ru/catalog/52/90/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/catalog/46/ - 301
+http://seacomm.ru/catalog/brands/8/ - 301
 https://seacomm.ru/catalog/52/9542/ - 301
+http://seacomm.ru/ - 301
 https://seacomm.ru/catalog/52/9542/ - 301
+http://seacomm.ru/catalog/54/9539/ - 301
+http://seacomm.ru/catalog/110/5085/ - 301
+http://seacomm.ru/catalog/56/9540/ - 301
+http://seacomm.ru/catalog/53/100/ - 301
+http://seacomm.ru/catalog/brands/15/ - 301
+http://seacomm.ru/catalog/53/1037/ - 301
+http://seacomm.ru/catalog/53/1037/ - 301
+http://seacomm.ru/ - 301
 
 <----------------------------------------->
 
@@ -416,6 +780,72 @@ https://seacomm.ru/catalog/76/
 
 https://seacomm.ru/news/6715/
 
+http://seacomm.ru/catalog/392/197/ - 301
+http://seacomm.ru/catalog/392/198/ - 301
+http://seacomm.ru/catalog/391/164/ - 301
+http://seacomm.ru/catalog/391/163/ - 301
+http://seacomm.ru/catalog/392/217/ - 301
+http://seacomm.ru/catalog/392/949/ - 301
+http://seacomm.ru/catalog/78/950/ - 301
+http://seacomm.ru/catalog/392/951/ - 301
+http://seacomm.ru/catalog/78/952/ - 301
+http://seacomm.ru/catalog/391/6394/ - 301
+http://seacomm.ru/catalog/391/6392/ - 301
+http://seacomm.ru/catalog/78/6452/ - 301
+http://seacomm.ru/catalog/78/6451/ - 301
+http://seacomm.ru/catalog/78/6437/ - 301
+http://seacomm.ru/catalog/78/6395/ - 301
+http://seacomm.ru/catalog/392/236/ - 301
+http://seacomm.ru/catalog/392/213/ - 301
+http://seacomm.ru/catalog/392/190/ - 301
+http://seacomm.ru/catalog/392/974/ - 301
+http://seacomm.ru/catalog/392/975/ - 301
+http://seacomm.ru/catalog/27/984/ - 301
+http://seacomm.ru/catalog/27/983/ - 301
+http://seacomm.ru/catalog/78/1039/ - 301
+http://seacomm.ru/catalog/27/4183/ - 301
+http://seacomm.ru/catalog/27/4177/ - 301
+http://seacomm.ru/catalog/p2/?q=lowrance+hds&x=0&y=0 - 301
+http://seacomm.ru/catalog/?q=lowrance+hds+gen2&x=0&y=0 - 301
+http://seacomm.ru/catalog/?q=lowrance+hds+gen2+touch&x=0&y=0 - 301
+http://seacomm.ru/catalog/27/4187/ - 301
+http://seacomm.ru/catalog/27/4188/ - 301
+http://seacomm.ru/catalog/392/274/ - 301
+http://seacomm.ru/catalog/392/482/ - 301
+http://seacomm.ru/catalog/78/483/ - 301
+http://seacomm.ru/catalog/392/216/ - 301
+http://seacomm.ru/catalog/392/195/ - 301
+http://seacomm.ru/catalog/78/183/ - 301
+http://seacomm.ru/catalog/67/5352/ - 301
+http://seacomm.ru/catalog/97/484/ - 301
+http://seacomm.ru/catalog/97/485/ - 301
+http://seacomm.ru/catalog/392/229/ - 301
+http://seacomm.ru/catalog/?q=seiwa+501&x=0&y=0 - 301
+http://seacomm.ru/catalog/?q=seiwa+701&x=0&y=0 - 301
+http://seacomm.ru/catalog/?q=simrad+nss&x=0&y=0 - 301
+http://seacomm.ru/catalog/?q=simrad+nse&x=0&y=0# - 301
+http://seacomm.ru/catalog/?q=simrad+NSO+evo2&x=0&y=0 - 301
+http://seacomm.ru/catalog/392/191/ - 301
+http://seacomm.ru/catalog/392/192/ - 301
+http://seacomm.ru/catalog/392/209/ - 301
+http://seacomm.ru/catalog/392/210/ - 301
+http://seacomm.ru/catalog/392/272/ - 301
+http://seacomm.ru/catalog/78/178/ - 301
+http://seacomm.ru/catalog/48/214/ - 301
+http://seacomm.ru/catalog/48/273/ - 301
+http://seacomm.ru/catalog/392/969/ - 301
+http://seacomm.ru/catalog/392/970/ - 301
+http://seacomm.ru/catalog/392/196/ - 301
+http://seacomm.ru/catalog/392/212/ - 301
+http://seacomm.ru/catalog/391/232/ - 301
+http://seacomm.ru/catalog/95/948/ - 301
+http://seacomm.ru/catalog/95/6711/ - 301
+http://seacomm.ru/catalog/95/6713/ - 301
+http://seacomm.ru/catalog/95/451/ - 301
+http://seacomm.ru/catalog/95/453/ - 301
+http://seacomm.ru/catalog/95/452/ - 301
+http://seacomm.ru/catalog/95/6163/ - 301
+http://seacomm.ru/catalog/95/6162/ - 301
 
 <----------------------------------------->
 
@@ -426,6 +856,10 @@ https://seacomm.ru/catalog/651/12144/
 
 https://seacomm.ru/dokumentacija/osnovw-rabotw-vperedsmotryachego-eholota/
 
+http://seacomm.ru/catalog/29/ - 301
+http://seacomm.ru/catalog/67/ - 301
+http://seacomm.ru/catalog/29/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=2100&FILTER_L%5BPRICE%5D%5BMAX%5D=657800&show_without_price=1&FILTER_L%5B1%5D=155&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/114/ - 301
 
 <----------------------------------------->
 
@@ -453,7 +887,103 @@ https://seacomm.ru/catalog/73/250/ - 404
 
 https://seacomm.ru/dokumentacija/10778/
 
-https://landcomm.ru/catalog/333/ - 302
+http://seacomm.ru/catalog/ - 301
+http://seacomm.ru/uslugi/installation/ - 301
+http://seacomm.ru/catalog/ - 301
+http://seacomm.ru/catalog/ - 301
+http://seacomm.ru/catalog/390/ - 301
+http://seacomm.ru/catalog/29/ - 301
+http://seacomm.ru/catalog/389/ - 301
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/32/ - 301
+http://seacomm.ru/catalog/34/ - 301
+http://seacomm.ru/catalog/42/ - 301
+http://seacomm.ru/catalog/390/ - 301
+http://seacomm.ru/catalog/115/ - 301
+http://seacomm.ru/catalog/412/ - 301
+http://seacomm.ru/catalog/350/ - 301
+http://seacomm.ru/catalog/600/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/?q=%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F&x=3&y=8 - 301
+http://seacomm.ru/catalog/?q=%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F&x=3&y=8 - 301
+http://seacomm.ru/catalog/?q=%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F&x=3&y=8 - 301
+http://seacomm.ru/catalog/586/ - 301
+http://seacomm.ru/catalog/388/ - 301
+http://seacomm.ru/catalog/549/ - 301
+http://seacomm.ru/catalog/385/ - 301
+http://seacomm.ru/catalog/398/ - 301
+http://seacomm.ru/catalog/566/ - 301
+http://seacomm.ru/catalog/565/ - 301
+http://seacomm.ru/catalog/ - 301
+http://seacomm.ru/solutions/11451/ - 301
+http://seacomm.ru/solutions/11451/ - 301
+http://seacomm.ru/solutions/11454/ - 301
+http://seacomm.ru/solutions/11454/ - 301
+http://seacomm.ru/solutions/11459/ - 301
+http://seacomm.ru/solutions/11459/ - 301
+http://seacomm.ru/catalog/78/ - 301
+http://seacomm.ru/catalog/?q=%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F&x=5&y=1 - 301
+http://seacomm.ru/catalog/391/ - 301
+http://seacomm.ru/catalog/114/ - 301
+http://seacomm.ru/catalog/48/ - 301
+http://landcomm.ru/catalog/333/ - 302
+http://seacomm.ru/catalog/586/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=1800&FILTER_L%5BPRICE%5D%5BMAX%5D=57500&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=9028&FILTER_L%5B351%5D= - 301
+http://seacomm.ru/catalog/391/ - 301
+http://seacomm.ru/catalog/114/ - 301
+http://seacomm.ru/catalog/99/ - 301
+http://seacomm.ru/catalog/485/ - 301
+http://seacomm.ru/catalog/486/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=9110&FILTER_L%5BPRICE%5D%5BMAX%5D=220910&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=7414&FILTER_L%5B351%5D= - 301
+http://seacomm.ru/catalog/390/ - 301
+http://seacomm.ru/catalog/350/ - 301
+http://seacomm.ru/catalog/48/ - 301
+http://seacomm.ru/catalog/586/ - 301
+http://seacomm.ru/catalog/642/ - 301
+http://seacomm.ru/catalog/641/ - 301
+http://seacomm.ru/catalog/566/ - 301
+http://seacomm.ru/catalog/565/ - 301
+http://seacomm.ru/solutions/ - 301
+http://seacomm.ru/catalog/ - 301
+http://seacomm.ru/about/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/catalog/brands/23/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+http://seacomm.ru/catalog/brands/22/ - 301
+http://seacomm.ru/catalog/brands/41/ - 301
+http://seacomm.ru/catalog/brands/9232/ - 301
+http://seacomm.ru/catalog/brands/12276/ - 301
+http://seacomm.ru/catalog/brands/8/ - 301
+http://seacomm.ru/catalog/brands/20/ - 301
+http://seacomm.ru/catalog/brands/45/ - 301
+http://seacomm.ru/catalog/brands/21/ - 301
+http://seacomm.ru/catalog/brands/1/ - 301
+http://seacomm.ru/catalog/brands/15/ - 301
+http://seacomm.ru/catalog/brands/4976/ - 301
+http://seacomm.ru/catalog/brands/9118/ - 301
+http://seacomm.ru/catalog/?q=fusion&x=0&y=0 - 301
+http://seacomm.ru/catalog/brands/11464/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/catalog/brands/23/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/brands/60/ - 301
+http://seacomm.ru/catalog/brands/21/ - 301
+http://seacomm.ru/catalog/brands/6/ - 301
+http://seacomm.ru/catalog/brands/5108/ - 301
+http://seacomm.ru/catalog/361/9824/ - 301
+http://seacomm.ru/catalog/641/ - 301
+http://seacomm.ru/catalog/565/ - 301
+http://seacomm.ru/catalog/642/ - 301
+http://seacomm.ru/catalog/586/ - 301
+http://seacomm.ru/catalog/566/ - 301
+http://seacomm.ru/catalog/641/ - 301
+http://seacomm.ru/catalog/642/ - 301
+http://seacomm.ru/catalog/565/ - 301
+http://seacomm.ru/news/12582/ - 301
+http://seacomm.ru/news/12527/ - 301
+http://seacomm.ru/news/11380/ - 301
+http://seacomm.ru/news/11380/ - 301
 
 <----------------------------------------->
 
@@ -464,62 +994,188 @@ https://seacomm.ru/news/6738/
 
 https://seacomm.ru/dokumentacija/10820/
 
-https://seacomm.ru/catalog/49/65/ - 301
-https://seacomm.ru/catalog/49/66/ - 301
-https://seacomm.ru/catalog/49/640/ - 301
-https://seacomm.ru/catalog/49/640/ - 301
-https://seacomm.ru/catalog/49/6112/ - 301
-https://seacomm.ru/catalog/49/1044/ - 301
-https://seacomm.ru/catalog/49/1074/ - 301
-https://seacomm.ru/catalog/49/1224/ - 301
+http://seacomm.ru/catalog/ - 301
+http://seacomm.ru/catalog/49/65/ - 301
+http://seacomm.ru/catalog/brands/1/ - 301
+http://seacomm.ru/catalog/49/66/ - 301
+http://seacomm.ru/catalog/49/640/ - 301
+http://seacomm.ru/catalog/22/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=540&FILTER_L%5BPRICE%5D%5BMAX%5D=114636&show_without_price=1&FILTER_L%5B1%5D=134&FILTER_L%5B347%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B511%5D=&FILTER_L%5B512%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4501%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/49/72/ - 301
+http://seacomm.ru/catalog/22/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=540&FILTER_L%5BPRICE%5D%5BMAX%5D=114636&show_without_price=1&FILTER_L%5B1%5D=134&FILTER_L%5B347%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B511%5D=&FILTER_L%5B512%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4501%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/49/1036/ - 301
+http://seacomm.ru/catalog/49/1035/ - 301
+http://seacomm.ru/catalog/49/586/ - 301
+http://seacomm.ru/catalog/22/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=540&FILTER_L%5BPRICE%5D%5BMAX%5D=114636&show_without_price=1&FILTER_L%5B1%5D=134&FILTER_L%5B347%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B511%5D=&FILTER_L%5B512%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4501%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/49/640/ - 301
+http://seacomm.ru/catalog/49/6112/ - 301
+http://seacomm.ru/catalog/49/944/ - 301
+http://seacomm.ru/catalog/49/1044/ - 301
+http://seacomm.ru/catalog/brands/23/ - 301
+http://seacomm.ru/catalog/49/1074/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/49/1224/ - 301
+http://seacomm.ru/catalog/73/5774/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/uslugi/installation/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/8204/
 
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/70/8199/ - 301
+http://seacomm.ru/catalog/70/8200/ - 301
+http://seacomm.ru/catalog/70/8198/ - 301
+http://seacomm.ru/catalog/70/5329/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/10782/
 
+http://seacomm.ru/catalog/103/10198/ - 301
+http://seacomm.ru/catalog/390/ - 301
+http://seacomm.ru/catalog/?q=%D1%80%D0%B0%D0%B4%D0%B0%D1%80%D0%BD%D0%B0%D1%8F+%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%B0+simrad+halo&x=3&y=8 - 301
+http://seacomm.ru/catalog/102/9528/ - 301
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/catalog/102/9528/ - 301
+http://seacomm.ru/catalog/102/9496/ - 301
+http://seacomm.ru/catalog/?q=chirp&x=0&y=0 - 301
+http://seacomm.ru/catalog/102/9528/ - 301
+http://seacomm.ru/dokumentacija/10714/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/391/ - 301
+http://seacomm.ru/catalog/395/7150/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/392/ - 301
+http://seacomm.ru/catalog/395/7150/ - 301
+http://seacomm.ru/catalog/70/?action=filter&FILTER_L%5B1%5D=148&FILTER_L%5B347%5D=5383 - 301
+http://seacomm.ru/catalog/96/ - 301
+http://seacomm.ru/catalog/95/ - 301
+http://seacomm.ru/ - 301
+http://seacomm.ru/catalog/85/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/uslugi/installation/ - 301
+http://seacomm.ru/about/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/sale/10565/
 
+http://seacomm.ru/news/10433/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/solutions/5062/
 
+http://seacomm.ru/catalog/70/1151/ - 301
+http://seacomm.ru/catalog/70/1151/ - 301
+http://seacomm.ru/catalog/70/1152/ - 301
+http://seacomm.ru/catalog/70/1151/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/11733/
 
-https://seacomm.ru/catalog/384/ - 404
+http://seacomm.ru/catalog/384/ - 301
+http://seacomm.ru/catalog/brands/6/ - 301
+http://seacomm.ru/catalog/brands/8/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/brands/57/ - 301
+http://seacomm.ru/catalog/40/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/solutions/4932/
 
-https://seacomm.ru/catalog/99/15548// - 301
+http://seacomm.ru/catalog/99/15548/ - 301
+http://seacomm.ru/catalog/99/593/ - 301
+http://seacomm.ru/catalog/99/1010/ - 301
+http://seacomm.ru/catalog/99/1031/ - 301
+http://seacomm.ru/catalog/99/487/ - 301
+http://seacomm.ru/catalog/99/489/ - 301
+http://seacomm.ru/catalog/99/15548// - 301
+http://seacomm.ru/catalog/99/1031/ - 301
+http://seacomm.ru/catalog/99/489/ - 301
+http://seacomm.ru/catalog/70/501/ - 301
+http://seacomm.ru/catalog/70/15550/ - 301
+http://seacomm.ru/catalog/70/499/ - 301
+http://seacomm.ru/catalog/70/15546/ - 301
+http://seacomm.ru/catalog/70/15544/ - 301
+http://seacomm.ru/catalog/70/766/ - 301
+http://seacomm.ru/catalog/70/15551/ - 301
+http://seacomm.ru/catalog/70/499/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/5317/
 
+http://seacomm.ru/catalog/52/98/ - 301
+http://seacomm.ru/catalog/52/98/ - 301
+http://seacomm.ru/catalog/52/98/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/52/98/ - 301
+http://seacomm.ru/catalog/52/98/ - 301
+http://seacomm.ru/catalog/75/139/ - 301
+http://seacomm.ru/catalog/75/140/ - 301
+http://seacomm.ru/catalog/75/938/ - 301
+http://seacomm.ru/catalog/54/111/ - 301
+http://seacomm.ru/catalog/54/112/ - 301
+http://seacomm.ru/catalog/54/1201/ - 301
+http://seacomm.ru/catalog/52/98/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/uslugi/installation/
 
+http://seacomm.ru/ - 301
+http://seacomm.ru/solutions/9128/ - 301
+http://seacomm.ru/solutions/8397/ - 301
+http://seacomm.ru/solutions/7912/ - 301
+http://seacomm.ru/solutions/7594/ - 301
+http://seacomm.ru/solutions/7539/ - 301
+http://seacomm.ru/solutions/7445/ - 301
+http://seacomm.ru/solutions/7405/ - 301
+http://seacomm.ru/solutions/6945/ - 301
+http://seacomm.ru/solutions/6363/ - 301
+http://seacomm.ru/solutions/5269/ - 301
+http://seacomm.ru/solutions/5087/ - 301
+http://seacomm.ru/solutions/5062/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/10855/
 
-https://seacomm.ru/catalog/66/ - 404
+http://seacomm.ru/catalog/29/ - 301
+http://seacomm.ru/catalog/42/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/brands/43/ - 301
+http://seacomm.ru/catalog/brands/23/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/brands/22/ - 301
+http://seacomm.ru/catalog/67/ - 301
+http://seacomm.ru/catalog/66/1155/ - 301
+http://seacomm.ru/catalog/29/ - 301
+http://seacomm.ru/catalog/66/1155/ - 301
+http://seacomm.ru/catalog/66/1150/ - 301
+http://seacomm.ru/catalog/66/9884/ - 301
+http://seacomm.ru/catalog/29/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=2100&FILTER_L%5BPRICE%5D%5BMAX%5D=715661&show_without_price=1&FILTER_L%5B1%5D=173&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/66/9884/ - 301
+http://seacomm.ru/catalog/66/4758/ - 301
+http://seacomm.ru/catalog/brands/29/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=5850&FILTER_L%5BPRICE%5D%5BMAX%5D=1242850&show_without_price=1&FILTER_L%5B347%5D=4108&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_L%5B397%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B4112%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/66/ - 301
+http://seacomm.ru/catalog/66/4758/ - 301
+http://seacomm.ru/catalog/brands/22/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=15990&FILTER_L%5BPRICE%5D%5BMAX%5D=528890&show_without_price=1&FILTER_L%5B347%5D=4143&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_C%5B4112%5D=0&FILTER_C%5B4277%5D=0&FILTER_C%5B4278%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/114/7588/ - 301
+http://seacomm.ru/catalog/67/ - 301
+http://seacomm.ru/catalog/29/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=2100&FILTER_L%5BPRICE%5D%5BMAX%5D=715661&show_without_price=1&FILTER_L%5B1%5D=152&FILTER_L%5B347%5D=&FILTER_L%5B348%5D=&FILTER_L%5B349%5D=&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0 - 301
+http://seacomm.ru/catalog/114/7588/ - 301
+http://seacomm.ru/catalog/brands/43/ - 301
+http://seacomm.ru/catalog/brands/29/ - 301
+http://seacomm.ru/catalog/brands/22/ - 301
 
 <----------------------------------------->
 
@@ -529,10 +1185,20 @@ https://seacomm.ru/catalog/384/ - 404
 
 https://seacomm.ru/solutions/11454/
 
-https://seacomm.ru/catalog/48/4205/ - 301
-https://seacomm.ru/catalog/53/7131/ - 301
-https://seacomm.ru/catalog/48/4205/ - 301
-https://seacomm.ru/catalog/53/7131/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/78/4324/ - 301
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/catalog/48/4205/ - 301
+http://seacomm.ru/catalog/53/7131/ - 301
+http://seacomm.ru/solutions/ - 301
+http://seacomm.ru/catalog/ - 301
+http://seacomm.ru/catalog/78/4324/ - 301
+http://seacomm.ru/catalog/114/11455/ - 301
+http://seacomm.ru/catalog/50/6973/ - 301
+http://seacomm.ru/catalog/48/4205/ - 301
+http://seacomm.ru/catalog/22/11458/ - 301
+http://seacomm.ru/catalog/53/7131/ - 301
 
 <----------------------------------------->
 
@@ -543,14 +1209,32 @@ https://seacomm.ru/catalog/412/
 
 https://seacomm.ru/news/10857/
 
-https://seacomm.ru/catalog/74/257/ - 404
-https://seacomm.ru/catalog/57/120/ - 404
+http://seacomm.ru/news/10582/ - 301
+http://seacomm.ru/catalog/brands/65/ - 301
+http://seacomm.ru/news/10776/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+http://seacomm.ru/catalog/74/992/ - 301
+http://seacomm.ru/catalog/57/998/ - 301
+http://seacomm.ru/catalog/74/257/ - 301
+http://seacomm.ru/catalog/57/120/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/9734/
 
-https://seacomm.ru/catalog/31/3670/ - 301
+http://satprocom.ru/catalog/445/5649/ - 301
+http://seacomm.ru/catalog/74/1055/ - 301
+http://seacomm.ru/catalog/31/3670/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/29/ - 301
+http://satprocom.ru/catalog/445/5649/ - 301
+http://satprocom.ru/news/9728/ - 301
+http://seacomm.ru/catalog/74/1055/ - 301
+http://seacomm.ru/about/certification/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/ - 301
 
 <----------------------------------------->
 
@@ -560,6 +1244,21 @@ https://seacomm.ru/news/9270/
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/5945/
+
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/395/379/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/97/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/395/393/ - 301
+http://seacomm.ru/catalog/85/ - 301
+http://seacomm.ru/catalog/67/ - 301
+http://seacomm.ru/catalog/395/ - 301
+http://seacomm.ru/catalog/brands/18/ - 301
+
+<----------------------------------------->
+
+https://seacomm.ru/dokumentacija/8371/
 
 
 <----------------------------------------->
@@ -571,24 +1270,88 @@ https://seacomm.ru/news/11962/
 
 https://seacomm.ru/catalog/65/
 
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=28540&FILTER_L%5BPRICE%5D%5BMAX%5D=622540&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=5775&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4501%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=5776&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=28540&FILTER_L%5BPRICE%5D%5BMAX%5D=622540&show_without_price=1&FILTER_L%5B1%5D=&FILTER_L%5B347%5D=5367&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4501%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=28540&FILTER_L%5BPRICE%5D%5BMAX%5D=622540&show_without_price=1&FILTER_L%5B1%5D=133&FILTER_L%5B347%5D=&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4501%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=28540&FILTER_L%5BPRICE%5D%5BMAX%5D=622540&show_without_price=1&FILTER_L%5B1%5D=140&FILTER_L%5B347%5D=&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B4501%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5B1%5D=148&FILTER_L%5B347%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5B1%5D=150&FILTER_C%5B3399%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5B1%5D=166&FILTER_C%5B3399%5D=0 - 301
+http://seacomm.ru/catalog/65/?action=filter&FILTER_L%5BPRICE%5D%5BMIN%5D=28540&FILTER_L%5BPRICE%5D%5BMAX%5D=622540&show_without_price=1&FILTER_L%5B1%5D=177&FILTER_L%5B351%5D=&FILTER_C%5B3399%5D=0&FILTER_C%5B3400%5D=0&FILTER_C%5B5001%5D=0 - 301
+http://seacomm.ru/dokumentacija/5027/ - 301
+http://seacomm.ru/dokumentacija/5029/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/9485/
 
+http://seacomm.ru/catalog/600/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/390/ - 301
+http://seacomm.ru/catalog/27/ - 301
+http://seacomm.ru/catalog/389/ - 301
+http://seacomm.ru/catalog/21/ - 301
+http://seacomm.ru/catalog/70/ - 301
+http://seacomm.ru/catalog/76/ - 301
+http://seacomm.ru/catalog/600/ - 301
+http://seacomm.ru/catalog/352/ - 301
+http://seacomm.ru/catalog/594/ - 301
+http://seacomm.ru/catalog/601/ - 301
+http://seacomm.ru/catalog/350/ - 301
+http://seacomm.ru/catalog/43/ - 301
+http://seacomm.ru/catalog/108/ - 301
+http://seacomm.ru/catalog/388/ - 301
+http://seacomm.ru/catalog/549/ - 301
+http://seacomm.ru/catalog/640/ - 301
+http://seacomm.ru/catalog/26/ - 301
+http://seacomm.ru/catalog/40/ - 301
+http://seacomm.ru/catalog/41/ - 301
+http://seacomm.ru/catalog/65/ - 301
+http://seacomm.ru/catalog/601/ - 301
+http://seacomm.ru/catalog/44/ - 301
+http://seacomm.ru/catalog/352/ - 301
+http://seacomm.ru/catalog/594/ - 301
+http://seacomm.ru/catalog/595/ - 301
+http://seacomm.ru/catalog/549/ - 301
+http://seacomm.ru/catalog/643/ - 301
+http://seacomm.ru/uslugi/eru/ - 301
+http://seacomm.ru/catalog/643/11667/ - 301
+http://seacomm.ru/catalog/643/11668/ - 301
+http://seacomm.ru/catalog/643/11678/ - 301
+http://seacomm.ru/catalog/643/11671/ - 301
+http://seacomm.ru/catalog/643/11670/ - 301
+http://seacomm.ru/catalog/643/11672/ - 301
+http://seacomm.ru/catalog/643/11676/ - 301
+http://seacomm.ru/catalog/643/11677/ - 301
+http://seacomm.ru/catalog/643/11674/ - 301
+http://seacomm.ru/catalog/643/11675/ - 301
+http://seacomm.ru/catalog/643/11680/ - 301
+http://seacomm.ru/catalog/643/11681/ - 301
+http://seacomm.ru/catalog/643/11679/ - 301
+http://seacomm.ru/catalog/202/ - 301
+http://seacomm.ru/uslugi/ - 301
+http://seacomm.ru/catalog/642/ - 301
+http://seacomm.ru/catalog/641/ - 301
+http://seacomm.ru/catalog/565/ - 301
+http://seacomm.ru/catalog/566/ - 301
+http://seacomm.ru/ - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/dokumentacija/zakonodateljwnye-akty/
 
-https://seacomm.ru/dokumentacija/ob-osnaschenii-sudov-sistemami-kontrolja-nesenija-xodovoj-vaxty- - 301
-https://seacomm.ru/dokumentacija/pismo-generalnomu-direktoru-fau-rrr - 301
+http://seacomm.ru/dokumentacija/izmenenija-v-rasporjazhenie-mintras-rossii-ot-11-nojabrja-2002-g--ns-137-r/ - 301
+http://seacomm.ru/dokumentacija/ob-osnaschenii-sudov-sistemami-kontrolja-nesenija-xodovoj-vaxty- - 301
+http://seacomm.ru/dokumentacija/pismo-generalnomu-direktoru-fau-rrr - 301
 
 <----------------------------------------->
 
 https://seacomm.ru/news/25/
 
-https://seacomm.ru/files/get/7/?f=c_Series_e_Series_New_2012.pdf - 404
+http://seacomm.ru/catalog/brands/19/ - 301
+http://seacomm.ru/files/get/7/?f=c_Series_e_Series_New_2012.pdf - 301
 
 <----------------------------------------->
 

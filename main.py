@@ -11,10 +11,12 @@ lisk = open('list_isk.txt', 'r')
 list_isk = [i.strip() for i in lisk.readlines()]
 
 def response(url):
-    return requests.get(url)
+    req = requests.get(url, allow_redirects=False, timeout=5)
+    if req.ok:
+        return req
 
 def response_code(url):
-    return requests.get(url, allow_redirects=False).status_code
+    return response(url).status_code
 
 
 def find_url(url):
@@ -24,7 +26,7 @@ def find_url(url):
     for item in items:
         href = str(item.get('href'))
         if href[0:2] == '//':
-            url_a = 'https:' + href
+            url_a = 'http:' + href
             if url_a not in list_isk:
                 href_list.append(url_a)
         elif href[0] == '/':
@@ -39,10 +41,10 @@ def find_url(url):
 def proverka(list_url):
     rez_list = []
     for url in list_url:
+        print(url)
         if response_code(url) != 200:
             rez_list.append(url + ' - ' + str(response_code(url)))
         else:
-            print(url)
             rez_list.append(url)
             rez_list.append('')
             for i in find_url(url):
