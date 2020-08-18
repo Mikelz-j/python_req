@@ -4,6 +4,12 @@ from time import time
 
 tic = time()
 
+url_site = open('url.txt', 'r').read()
+if url_site[-1] == '/':
+    chif_url = url_site[0:-1]
+else:
+    chif_url = url_site
+
 url_list = open('url_list.txt', 'r')
 list_prov = [i.strip() for i in url_list.readlines()]
 
@@ -11,7 +17,7 @@ lisk = open('list_isk.txt', 'r')
 list_isk = [i.strip() for i in lisk.readlines()]
 
 def response(url):
-    req = requests.get(url, allow_redirects=False, timeout=5)
+    req = requests.get(url, allow_redirects=False, verify=True)
     if req.ok:
         return req
 
@@ -19,18 +25,22 @@ def response_code(url):
     return response(url).status_code
 
 
+url_dist = {}
+
 def find_url(url):
     href_list = []
+    href_list_out = []
     soup = BeautifulSoup(response(url).content, 'html.parser')
     items = soup.findAll('a')
     for item in items:
         href = str(item.get('href'))
         if href[0:2] == '//':
-            url_a = 'http:' + href
-            if url_a not in list_isk:
-                href_list.append(url_a)
+            if href[2:5] != 'www':
+                url_a = 'https:' + href
+                if url_a not in list_isk:
+                    href_list.append(url_a)
         elif href[0] == '/':
-            url_a = 'https://seacomm.ru' + href
+            url_a = chif_url + href
             if url_a not in list_isk:
                 href_list.append(url_a)
         elif href[0:4] == 'http':
