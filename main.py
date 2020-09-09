@@ -16,13 +16,21 @@ list_prov = [i.strip() for i in url_list.readlines()]
 lisk = open('list_isk.txt', 'r')
 list_isk = [i.strip() for i in lisk.readlines()]
 
+def write_result(str):
+    r = open("rez.txt", "a")
+    r.write(str + '\n')
+    r.close()
+
 def response(url):
     req = requests.get(url, allow_redirects=False, verify=True)
     if req.ok:
         return req
 
 def response_code(url):
-    return response(url).status_code
+    try:
+        return response(url).status_code
+    except:
+        return 'Error'
 
 
 url_dist = {}
@@ -49,24 +57,19 @@ def find_url(url):
     return href_list
 
 def proverka(list_url):
-    rez_list = []
     for url in list_url:
         print(url)
         if response_code(url) != 200:
-            rez_list.append(url + ' - ' + str(response_code(url)))
+            write_result(url + ' - ' + str(response_code(url)))
         else:
-            rez_list.append(url)
-            rez_list.append('')
+            write_result(url)
+            write_result('')
             for i in find_url(url):
                 if response_code(i) != 200:
-                    rez_list.append(i + ' - ' + str(response_code(i)))
-        rez_list.append('')
-        rez_list.append('<----------------------------------------->')
-        rez_list.append('')
-    r = open("rez.txt", "w")
-    for i in rez_list:
-        r.write(str(i) + '\n')
-    r.close()
+                    write_result(i + ' - ' + str(response_code(i)))
+        write_result('')
+        write_result('<----------------------------------------->')
+        write_result('')
 
 proverka(list_prov)
 
